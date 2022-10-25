@@ -1,6 +1,6 @@
 //SPDX-License-Identifier: Unlicensed
 pragma solidity ^0.8.7;
-contract CryptoKids
+contract Crypto
 {
     //Define Owner / Manager
     address Manager;
